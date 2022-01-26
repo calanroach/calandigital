@@ -56,7 +56,7 @@ Calandigital also provides some subpackages for aditional functionalities (check
 - [x] `dummy_roach`: used to simulate a ROACH connection.
 
 ## External Links
-* [simulink_models](https://github.com/FrancoCalan/simulink_models): Sister repository with simulink models, compiled .bof files, and script files for various examples and projects.
+* [simulink_models](https://github.com/calanroach/simulink_models): Sister repository with simulink models, compiled .bof files, and script files for various examples and projects.
 * [Calan Digital Wiki](https://sites.google.com/site/calandigital/): Wiki site with ROACH tutorials and information about our (Milimeter-Wave Laboratory) digital back-end projects.
 * [CASPER Site](https://casper.berkeley.edu/): Oficial CASPER site, the developers of the ROACH and other digital platforms for radioastronomy.
 
